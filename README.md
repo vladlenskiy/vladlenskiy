@@ -50,6 +50,13 @@
  💬  Ask me about anything [here](https://github.com/vladlenskiy/vladlenskiy/issues)
 </p>
 <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
+<a href="https://www.npmjs.com/~vladlen.kaveev" target="_blank">
+  <img src="https://github.com/npm/logos/blob/master/npm%20logo/classic/npm-2009.png" alt="NPM" width="64" height="28"/>
+ </a>
+
+
+
+
 <!-- About Section -->
