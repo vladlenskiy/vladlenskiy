@@ -45,7 +45,7 @@
  # Contacts
 <p>
   
- ✌️  Telegram: [@vladlensk1y](https://t.me/vladlensk1y)<br/><br/>
+ ✌️  Contacts: [@vladlensk1y](https://linktr.ee/vladlensk1y)<br/><br/>
  📧  Email: v.dev.tm@gmail.com<br/><br/>
  💬  Ask me about anything [here](https://github.com/vladlenskiy/vladlenskiy/issues)
 </p>
