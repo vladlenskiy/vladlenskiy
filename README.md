@@ -1,7 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        &gt; Hey There!, I am
-                <b>Vladlen</b>
+                <b>Vladlen Kaveev</b>
         
 </h3>
 
@@ -9,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a <b>React Native</b> developer 」
+    「 <b>React Native | DevOps | Team Lead</b> 」
     <br>
     <br>
   </samp>
@@ -28,19 +27,18 @@
 <br />
 
 <!-- About Section -->
- # Contacts
 <p>
- [Resume](https://linktr.ee/vladlensk1y)<br/><br/>
- [Links](https://linktr.ee/vladlensk1y)<br/><br/>
- Email: vkaveev@outlook.com<br/><br/>
- Ask me about anything [here](https://github.com/vladlenskiy/vladlenskiy/issues)
+<a href="https://linktr.ee/vladlensk1y">Resume</a><br/><br/>
+<a href="https://linktr.ee/vladlensk1y">Links</a><br/><br/>
+<!--  Email: vkaveev@outlook.com<br/><br/> -->
+<!--  Ask me about anything [here](https://github.com/vladlenskiy/vladlenskiy/issues) -->
 </p>
-<a href="https://www.linkedin.com/in/vkaveev/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/vkaveev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-<a href="https://www.npmjs.com/~vladlen.kaveev" target="_blank">
+ </a> -->
+<!-- <a href="https://www.npmjs.com/~vladlen.kaveev" target="_blank">
   <img src="https://github.com/npm/logos/blob/master/npm%20logo/classic/npm-2009.png" alt="NPM" width="64" height="28"/>
- </a>
+</a> -->
 
 
 
